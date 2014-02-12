@@ -1,0 +1,10 @@
+Testsuite: net.onnlab.crru.budget.DepartmentSpec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 1.735 sec
+------------- Standard Output ---------------
+--Output from Test that name must begin with an upper case letter--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from Test that name must begin with an upper case letter--
+------------- ---------------- ---------------
+
+Testcase: Test that name must begin with an upper case letter took 1.676 sec

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="Anusorn" id="0" name="DepartmentSpec" package="net.onnlab.crru.budget" tests="1" time="1.735" timestamp="2014-02-12T09:00:19">
+      <properties />
+
+      <testcase classname="net.onnlab.crru.budget.DepartmentSpec" name="Test that name must begin with an upper case letter" time="1.676" />
+
+      <system-out><![CDATA[--Output from Test that name must begin with an upper case letter--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Test that name must begin with an upper case letter--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
